@@ -6,7 +6,7 @@
 #2.1 Data Import
 dataset_path <- "C:\\Users\\kslie\\Desktop\\Assignment Year 2\\Sem 1\\PFDA\\House_Rent_Dataset.csv"
 house_rent_dataset <- read.csv(dataset_path)
-view(house_rent_dataset)
+View(house_rent_dataset)
 
 #2.2 Data Cleaning
 #2.2.1 Handling null values
